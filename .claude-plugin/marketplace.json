@@ -1,0 +1,11 @@
+{
+  "name": "kitbay",
+  "owner": { "name": "Kitbay", "url": "https://kitbay.app/" },
+  "plugins": [
+    {
+      "name": "kitbay",
+      "source": "./",
+      "description": "Find, check and install MCP servers and agent skills with sourced facts from the Kitbay directory."
+    }
+  ]
+}

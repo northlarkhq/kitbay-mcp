@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.kitbay/catalog",
+  "title": "Kitbay",
+  "description": "Read-only search of the Kitbay directory of MCP servers and agent skills, with sourced facts.",
+  "version": "1.0.0",
+  "websiteUrl": "https://kitbay.app/",
+  "repository": { "url": "https://github.com/northlarkhq/kitbay-mcp", "source": "github" },
+  "remotes": [{ "type": "streamable-http", "url": "https://kitbay.app/mcp" }]
+}

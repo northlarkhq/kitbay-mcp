@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "kitbay": { "type": "http", "url": "https://kitbay.app/mcp" }
+  }
+}
