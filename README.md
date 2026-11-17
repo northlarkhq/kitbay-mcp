@@ -2,7 +2,7 @@
 
 [Kitbay](https://kitbay.app/) is a directory of MCP servers and agent skills. Every fact on it has a source URL and the date it was checked, and "unknown" is kept as unknown rather than guessed.
 
-This repository gives AI agents direct access to it:
+This repository gives AI agents direct access to it (setup for every client: https://kitbay.app/agents/):
 
 - **Kitbay MCP server**: a remote, read-only server at `https://kitbay.app/mcp` (streamable HTTP, no sign-in).
 - **kitbay skill**: tells an agent when and how to use it: find a server or skill for a tool, show the user the facts, and install it only with their permission.
