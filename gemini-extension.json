@@ -1,0 +1,10 @@
+{
+  "name": "kitbay",
+  "version": "1.0.0",
+  "description": "Find, check and install MCP servers and agent skills with sourced facts from the Kitbay directory (kitbay.app). Adds the read-only Kitbay MCP server.",
+  "mcpServers": {
+    "kitbay": {
+      "httpUrl": "https://kitbay.app/mcp"
+    }
+  }
+}

@@ -16,6 +16,12 @@ This repository gives AI agents direct access to it (setup for every client: htt
 /plugin install kitbay@kitbay
 ```
 
+**Gemini CLI (extension)**
+
+```
+gemini extensions install https://github.com/northlarkhq/kitbay-mcp
+```
+
 **Any MCP client (server only):** add `https://kitbay.app/mcp` as a remote MCP server. For example, in Claude Code:
 
 ```
